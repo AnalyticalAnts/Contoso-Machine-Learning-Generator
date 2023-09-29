@@ -1,0 +1,377 @@
+GeoLocationKey|CountryCode|Country|StateCode|State|NumCustomers
+253|IT|Italy|AP|Ascoli Piceno|1
+254|IT|Italy|AQ|L'Aquila|1
+255|IT|Italy|AR|Arezzo|1
+256|IT|Italy|AT|Asti|2
+257|IT|Italy|AV|Avellino|2
+258|IT|Italy|BN|Benevento|2
+259|IT|Italy|BO|Bologna|2
+260|IT|Italy|BS|Brescia|1
+261|IT|Italy|BZ|Bolzano|2
+262|IT|Italy|CA|Cagliari|1
+263|IT|Italy|CE|Caserta|2
+264|IT|Italy|CH|Chieti|1
+265|IT|Italy|CN|Cuneo|2
+266|IT|Italy|CO|Como|1
+267|IT|Italy|CS|Cosenza|2
+268|IT|Italy|CT|Catania|2
+269|IT|Italy|CZ|Catanzaro|1
+270|IT|Italy|FE|Ferrara|1
+271|IT|Italy|FG|Foggia|1
+272|IT|Italy|FI|Firenze|2
+273|IT|Italy|FO|Forli|1
+274|IT|Italy|FR|Frosinone|1
+275|IT|Italy|GE|Genova|2
+276|IT|Italy|GO|Gorizia|1
+277|IT|Italy|IS|Isernia|1
+278|IT|Italy|KR|Crotone|1
+279|IT|Italy|LC|Lecco|1
+280|IT|Italy|LE|Lecce|1
+281|IT|Italy|LI|Livorno|1
+282|IT|Italy|LT|Latina|1
+283|IT|Italy|LU|Lucca|1
+284|IT|Italy|ME|Messina|2
+285|IT|Italy|MN|Mantova|1
+286|IT|Italy|MO|Modena|1
+287|IT|Italy|MS|Massa|1
+288|IT|Italy|NA|Napoli|2
+289|IT|Italy|NO|Novara|2
+290|IT|Italy|PE|Pescara|1
+291|IT|Italy|PG|Perugia|5
+292|IT|Italy|PI|Pisa|1
+293|IT|Italy|PR|Parma|3
+294|IT|Italy|RA|Ravenna|2
+295|IT|Italy|RC|Reggio Calabria|2
+296|IT|Italy|RE|Reggio Emilia|1
+297|IT|Italy|RI|Rieti|1
+298|IT|Italy|RM|Roma|3
+299|IT|Italy|RO|Rovigo|1
+300|IT|Italy|SA|Salerno|3
+301|IT|Italy|SP|La Spezia|1
+302|IT|Italy|SS|Sassari|1
+303|IT|Italy|TA|Taranto|1
+304|IT|Italy|TE|Teramo|1
+305|IT|Italy|TN|Trento|5
+306|IT|Italy|TO|Torino|2
+307|IT|Italy|TP|Trapani|1
+308|IT|Italy|TR|Termi|1
+309|IT|Italy|UD|Udine|3
+310|IT|Italy|VA|Varese|1
+311|IT|Italy|VC|Vercelli|1
+312|IT|Italy|VR|Verona|2
+313|NL|Netherlands|DR|Drenthe|7
+314|NL|Netherlands|FL|Flevoland|9
+315|NL|Netherlands|FR|Friesland|17
+316|NL|Netherlands|GE|Gelderland|29
+317|NL|Netherlands|GR|Groningen|16
+318|NL|Netherlands|LI|Limburg|20
+319|NL|Netherlands|NB|Noord-Brabant|42
+320|NL|Netherlands|NH|Noord-Holland|42
+321|NL|Netherlands|OV|Overijssel|23
+322|NL|Netherlands|UT|Utrecht|20
+323|NL|Netherlands|ZE|Zeeland|10
+324|NL|Netherlands|ZH|Zuid-Holland|55
+325|US|United States|AK|Alaska|13
+326|US|United States|AL|Alabama|40
+327|US|United States|AR|Arkansas|28
+328|US|United States|AZ|Arizona|45
+329|US|United States|CA|California|311
+330|US|United States|CO|Colorado|44
+331|US|United States|CT|Connecticut|32
+332|US|United States|DC|Washington DC|9
+333|US|United States|DE|Delaware|13
+334|US|United States|FL|Florida|143
+335|US|United States|GA|Georgia|85
+336|US|United States|HI|Hawaii|9
+337|US|United States|IA|Iowa|28
+338|US|United States|ID|Idaho|21
+339|US|United States|IL|Illinois|145
+340|US|United States|IN|Indiana|70
+341|US|United States|KS|Kansas|38
+342|US|United States|KY|Kentucky|51
+343|US|United States|LA|Louisiana|40
+344|US|United States|MA|Massachusetts|81
+345|US|United States|MD|Maryland|60
+346|US|United States|ME|Maine|13
+347|US|United States|MI|Michigan|105
+372|US|United States|WA|Washington|64
+373|US|United States|WI|Wisconsin|62
+374|US|United States|WV|West Virginia|28
+375|US|United States|WY|Wyoming|8
+-1|||||0
+176|GB|United Kingdom|North Yorkshire|North Yorkshire|4
+177|GB|United Kingdom|Northumberland|Northumberland|2
+178|GB|United Kingdom|Nuneaton & Bedworth|Nuneaton & Bedworth|2
+179|GB|United Kingdom|Orkney Islands|Orkney Islands|4
+180|GB|United Kingdom|Oxford|Oxford|2
+181|GB|United Kingdom|Pembrokeshire|Pembrokeshire|2
+182|GB|United Kingdom|Perth and Kinross|Perth and Kinross|7
+183|GB|United Kingdom|Peterborough|Peterborough|1
+184|GB|United Kingdom|Reigate and Banstead|Reigate and Banstead|1
+185|GB|United Kingdom|Ribble Valley|Ribble Valley|1
+186|GB|United Kingdom|Ripon|Ripon|1
+187|GB|United Kingdom|Rochdale|Rochdale|1
+188|GB|United Kingdom|Rochford|Rochford|1
+189|GB|United Kingdom|Rother|Rother|1
+190|GB|United Kingdom|Rotherham|Rotherham|1
+191|GB|United Kingdom|Rushcliffe|Rushcliffe|2
+192|GB|United Kingdom|Scottish Borders|Scottish Borders|1
+193|GB|United Kingdom|Sevenoaks|Sevenoaks|2
+194|GB|United Kingdom|Shetland|Shetland|6
+195|GB|United Kingdom|Shropshire|Shropshire|14
+196|GB|United Kingdom|Somerset|Somerset|9
+197|GB|United Kingdom|South Ayrshire|South Ayrshire|2
+198|GB|United Kingdom|South Buckinghamshire|South Buckinghamshire|1
+199|GB|United Kingdom|South Derbyshire|South Derbyshire|1
+200|GB|United Kingdom|South Gloucestershire|South Gloucestershire|1
+201|GB|United Kingdom|South Hams|South Hams|1
+202|GB|United Kingdom|South Kesteven|South Kesteven|4
+203|GB|United Kingdom|South Lakeland|South Lakeland|4
+204|GB|United Kingdom|South Lanarkshire|South Lanarkshire|2
+205|GB|United Kingdom|South Northamptonshire|South Northamptonshire|1
+206|GB|United Kingdom|South Oxfordshire|South Oxfordshire|4
+207|GB|United Kingdom|South Somerset|South Somerset|1
+208|GB|United Kingdom|St Edmundsbury|St Edmundsbury|2
+209|GB|United Kingdom|Staffordshire|Staffordshire|2
+210|GB|United Kingdom|Stratford-on-Avon|Stratford-on-Avon|1
+211|GB|United Kingdom|Stroud|Stroud|1
+212|GB|United Kingdom|Suffolk|Suffolk|3
+213|GB|United Kingdom|Suffolk Coastal|Suffolk Coastal|2
+214|GB|United Kingdom|Sussex|Sussex|1
+215|GB|United Kingdom|Swansea|Swansea|1
+216|GB|United Kingdom|Teignbridge|Teignbridge|2
+217|GB|United Kingdom|Telford and Wrekin|Telford and Wrekin|1
+218|GB|United Kingdom|Test Valley|Test Valley|4
+219|GB|United Kingdom|Tewkesbury|Tewkesbury|2
+220|GB|United Kingdom|Three Rivers|Three Rivers|1
+221|GB|United Kingdom|Trafford|Trafford|1
+222|GB|United Kingdom|Tunbridge Wells|Tunbridge Wells|1
+223|GB|United Kingdom|Uttlesford|Uttlesford|2
+224|GB|United Kingdom|Vale of White Horse|Vale of White Horse|2
+225|GB|United Kingdom|Wakefield|Wakefield|1
+226|GB|United Kingdom|Walsall|Walsall|1
+227|GB|United Kingdom|Warwick|Warwick|2
+228|GB|United Kingdom|Waveney|Waveney|1
+229|GB|United Kingdom|Waverley|Waverley|1
+230|GB|United Kingdom|Wealden|Wealden|3
+231|GB|United Kingdom|West Devon|West Devon|1
+232|GB|United Kingdom|West Dorset|West Dorset|3
+233|GB|United Kingdom|West Dunbartonshire|West Dunbartonshire|2
+234|GB|United Kingdom|West Lancashire|West Lancashire|1
+235|GB|United Kingdom|West Lindsey|West Lindsey|2
+236|GB|United Kingdom|West Lothian|West Lothian|3
+237|GB|United Kingdom|West Norfolk|West Norfolk|5
+238|GB|United Kingdom|West Oxfordshire|West Oxfordshire|1
+239|GB|United Kingdom|Weymouth and Portland|Weymouth and Portland|3
+240|GB|United Kingdom|Wigtownshire|Wigtownshire|3
+241|GB|United Kingdom|Wiltshire|Wiltshire|6
+242|GB|United Kingdom|Winchester|Winchester|1
+243|GB|United Kingdom|Wirral|Wirral|1
+244|GB|United Kingdom|Wokingham|Wokingham|1
+245|GB|United Kingdom|Wolverhampton|Wolverhampton|1
+246|GB|United Kingdom|Worcester|Worcester|1
+247|GB|United Kingdom|Wrexham|Wrexham|3
+248|GB|United Kingdom|Wyre Forest|Wyre Forest|1
+249|GB|United Kingdom|York|York|3
+250|IT|Italy|AL|Alessandria|3
+251|IT|Italy|AN|Ancona|2
+348|US|United States|MN|Minnesota|65
+349|US|United States|MO|Missouri|68
+350|US|United States|MS|Mississippi|36
+351|US|United States|MT|Montana|13
+352|US|United States|NC|North Carolina|68
+353|US|United States|ND|North Dakota|13
+354|US|United States|NE|Nebraska|18
+355|US|United States|NH|New Hampshire|8
+356|US|United States|NJ|New Jersey|89
+357|US|United States|NM|New Mexico|17
+358|US|United States|NV|Nevada|13
+359|US|United States|NY|New York|166
+360|US|United States|OH|Ohio|107
+361|US|United States|OK|Oklahoma|36
+362|US|United States|OR|Oregon|28
+363|US|United States|PA|Pennsylvania|130
+364|US|United States|RI|Rhode Island|9
+365|US|United States|SC|South Carolina|46
+366|US|United States|SD|South Dakota|4
+367|US|United States|TN|Tennessee|50
+368|US|United States|TX|Texas|220
+369|US|United States|UT|Utah|18
+370|US|United States|VA|Virginia|74
+371|US|United States|VT|Vermont|12
+1|AU|Australia|ACT|Australian Capital Territory|2
+2|AU|Australia|NSW|New South Wales|131
+3|AU|Australia|NT|Northern Territory|2
+4|AU|Australia|QLD|Queensland|92
+5|AU|Australia|SA|South Australia|33
+6|AU|Australia|TAS|Tasmania|21
+7|AU|Australia|VIC|Victoria|79
+8|AU|Australia|WA|Western Australia|41
+9|CA|Canada|AB|Alberta|94
+10|CA|Canada|BC|British Columbia|113
+11|CA|Canada|MB|Manitoba|5
+12|CA|Canada|NB|New Brunswick|2
+13|CA|Canada|NL|Newfoundland and Labrador|3
+14|CA|Canada|NS|Nova Scotia|7
+15|CA|Canada|NT|Northwest Territories|2
+16|CA|Canada|NU|Nunavut|1
+17|CA|Canada|ON|Ontario|272
+18|CA|Canada|PE|Prince Edward Island|6
+19|CA|Canada|QC|Quebec|90
+20|CA|Canada|SK|Saskatchewan|34
+21|CA|Canada|YT|Yukon|3
+98|GB|United Kingdom|Cheshire East|Cheshire East|2
+99|GB|United Kingdom|Cheshire West and Chester|Cheshire West and Chester|1
+100|GB|United Kingdom|Christchurch|Christchurch|1
+101|GB|United Kingdom|Colchester|Colchester|2
+102|GB|United Kingdom|Comhairle nan Eilean Siar|Comhairle nan Eilean Siar|2
+103|GB|United Kingdom|Conwy|Conwy|2
+104|GB|United Kingdom|Copeland|Copeland|2
+105|GB|United Kingdom|Cornwall|Cornwall|13
+106|GB|United Kingdom|Cotswold|Cotswold|1
+107|GB|United Kingdom|County Durham|County Durham|6
+108|GB|United Kingdom|Crawley|Crawley|1
+109|GB|United Kingdom|Dacorum|Dacorum|1
+110|GB|United Kingdom|Dartford|Dartford|2
+111|GB|United Kingdom|Daventry|Daventry|2
+112|GB|United Kingdom|Denbighshire|Denbighshire|1
+113|GB|United Kingdom|Derbyshire Dales|Derbyshire Dales|2
+114|GB|United Kingdom|Doncaster|Doncaster|1
+115|GB|United Kingdom|Dumfriesshire|Dumfriesshire|2
+116|GB|United Kingdom|Dundee|Dundee|1
+117|GB|United Kingdom|East Ayrshire|East Ayrshire|1
+118|GB|United Kingdom|East Dunbartonshire|East Dunbartonshire|1
+119|GB|United Kingdom|East Lothian|East Lothian|1
+120|GB|United Kingdom|East Northamptonshire|East Northamptonshire|1
+121|GB|United Kingdom|East Riding of Yorkshire|East Riding of Yorkshire|2
+122|GB|United Kingdom|East Staffordshire|East Staffordshire|1
+123|GB|United Kingdom|Eastleigh|Eastleigh|3
+124|GB|United Kingdom|Eden|Eden|3
+125|GB|United Kingdom|Edinburgh|Edinburgh|1
+126|GB|United Kingdom|Ely|Ely|2
+127|GB|United Kingdom|Exeter|Exeter|8
+128|GB|United Kingdom|Falkirk|Falkirk|2
+129|GB|United Kingdom|Fenland|Fenland|2
+130|GB|United Kingdom|Fife|Fife|4
+131|GB|United Kingdom|Flintshire|Flintshire|1
+132|GB|United Kingdom|Gloucester|Gloucester|2
+133|GB|United Kingdom|Guildford|Guildford|2
+134|GB|United Kingdom|Gwynedd|Gwynedd|7
+135|GB|United Kingdom|Hackney|Hackney|1
+136|GB|United Kingdom|Harrogate|Harrogate|2
+137|GB|United Kingdom|Havering|Havering|1
+138|GB|United Kingdom|Hereford|Hereford|7
+139|GB|United Kingdom|Highland|Highland|19
+140|GB|United Kingdom|Horsham|Horsham|4
+141|GB|United Kingdom|Huntingdonshire|Huntingdonshire|1
+142|GB|United Kingdom|Ipswich|Ipswich|2
+143|GB|United Kingdom|Isle of Man|Isle of Man|1
+144|GB|United Kingdom|Isle of Wight|Isle of Wight|1
+145|GB|United Kingdom|Kent|Kent|1
+146|GB|United Kingdom|Kirkcudbrightshire|Kirkcudbrightshire|3
+147|GB|United Kingdom|Lancaster|Lancaster|1
+148|GB|United Kingdom|Leeds|Leeds|5
+149|GB|United Kingdom|Leicester|Leicester|6
+150|GB|United Kingdom|Lewes|Lewes|3
+151|GB|United Kingdom|Lincoln|Lincoln|4
+152|GB|United Kingdom|Liverpool|Liverpool|3
+153|GB|United Kingdom|Llandrindod Wells|Llandrindod Wells|6
+154|GB|United Kingdom|Luton|Luton|1
+155|GB|United Kingdom|Melton|Melton|1
+156|GB|United Kingdom|Mendip|Mendip|1
+157|GB|United Kingdom|Mid Devon|Mid Devon|2
+158|GB|United Kingdom|Mid Suffolk|Mid Suffolk|2
+159|GB|United Kingdom|Midlothian|Midlothian|2
+160|GB|United Kingdom|Monmouthshire|Monmouthshire|1
+161|GB|United Kingdom|Moray|Moray|4
+162|GB|United Kingdom|Neath Port Talbot|Neath Port Talbot|1
+163|GB|United Kingdom|New Forest|New Forest|2
+164|GB|United Kingdom|Newark and Sherwood|Newark and Sherwood|4
+165|GB|United Kingdom|Newport|Newport|2
+166|GB|United Kingdom|Norfolk|Norfolk|10
+167|GB|United Kingdom|North Ayrshire|North Ayrshire|2
+168|GB|United Kingdom|North Dorset|North Dorset|1
+169|GB|United Kingdom|North East Derbyshire|North East Derbyshire|1
+170|GB|United Kingdom|North Hertfordshire|North Hertfordshire|2
+171|GB|United Kingdom|North Kesteven|North Kesteven|1
+172|GB|United Kingdom|North Lanarkshire|North Lanarkshire|1
+173|GB|United Kingdom|North Lincolnshire|North Lincolnshire|2
+174|GB|United Kingdom|North Tyneside|North Tyneside|1
+175|GB|United Kingdom|North Warwickshire|North Warwickshire|1
+252|IT|Italy|AO|Aosta|1
+22|DE|Germany|BB|Brandenburg|18
+23|DE|Germany|BE|Berlin|14
+24|DE|Germany|BW|Baden-Württemberg|55
+25|DE|Germany|BY|Freistaat Bayern|187
+26|DE|Germany|HB|Freie Hansestadt Bremen|2
+27|DE|Germany|HE|Hessen|18
+28|DE|Germany|HH|Hamburg|13
+29|DE|Germany|MV|Mecklenburg-Vorpommern|16
+30|DE|Germany|NI|Niedersachsen|44
+31|DE|Germany|NW|Nordrhein-Westfalen|55
+32|DE|Germany|RP|Rheinland-Pfalz|87
+33|DE|Germany|SH|Schleswig-Holstein|35
+34|DE|Germany|SL|Saarland|1
+35|DE|Germany|SN|Freistaat Sachsen|32
+36|DE|Germany|ST|Sachsen-Anhalt|22
+37|DE|Germany|TH|Freistaat Thüringen|30
+38|FR|France|AL|Alsace|3
+39|FR|France|AQ|Aquitaine|3
+40|FR|France|AU|Auvergne|4
+41|FR|France|BN|Basse-Normandie|1
+42|FR|France|BO|Bourgogne|4
+43|FR|France|BR|Bretagne|1
+44|FR|France|CA|Champagne-Ardenne|3
+45|FR|France|CE|Centre|6
+46|FR|France|CO|Corse|2
+47|FR|France|FC|Franche-Comté|1
+48|FR|France|GD|Guadeloupe|1
+49|FR|France|GY|Guyane|4
+50|FR|France|HN|Haute-Normandie|4
+51|FR|France|IL|Île-de-France|76
+52|FR|France|LI|Limousin|1
+53|FR|France|LN|Languedoc-Roussillon|2
+54|FR|France|LO|Lorraine|4
+55|FR|France|MP|Midi-Pyrénées|5
+56|FR|France|MQ|Martinique|1
+57|FR|France|NP|Nord-Pas-de-Calais|9
+58|FR|France|PA|Provence-Alpes-Côte d'Azur|30
+59|FR|France|PC|Poitou-Charentes|2
+60|FR|France|PI|Picardie|2
+61|FR|France|PL|Pays de la Loire|5
+62|FR|France|RA|Rhône-Alpes|21
+63|GB|United Kingdom|Aberdeen|Aberdeen|1
+64|GB|United Kingdom|Aberdeenshire|Aberdeenshire|8
+65|GB|United Kingdom|Allerdale|Allerdale|1
+66|GB|United Kingdom|Amber Valley|Amber Valley|1
+67|GB|United Kingdom|Anglesey|Anglesey|2
+68|GB|United Kingdom|Angus|Angus|3
+69|GB|United Kingdom|Argyllshire|Argyllshire|11
+70|GB|United Kingdom|Arun|Arun|1
+71|GB|United Kingdom|Ashford|Ashford|2
+72|GB|United Kingdom|Aylesbury Vale|Aylesbury Vale|4
+73|GB|United Kingdom|Babergh|Babergh|1
+74|GB|United Kingdom|Barnet|Barnet|1
+75|GB|United Kingdom|Barnsley|Barnsley|1
+76|GB|United Kingdom|Bassetlaw|Bassetlaw|2
+77|GB|United Kingdom|Bedford|Bedford|1
+78|GB|United Kingdom|Berkshire|Berkshire|1
+79|GB|United Kingdom|Bexley|Bexley|1
+80|GB|United Kingdom|Bolsover|Bolsover|1
+81|GB|United Kingdom|Boston|Boston|1
+82|GB|United Kingdom|Bracknell Forest|Bracknell Forest|1
+83|GB|United Kingdom|Bradford|Bradford|2
+84|GB|United Kingdom|Braintree|Braintree|1
+85|GB|United Kingdom|Brighton and Hove|Brighton and Hove|1
+86|GB|United Kingdom|Bristol|Bristol|2
+87|GB|United Kingdom|Bromley|Bromley|1
+88|GB|United Kingdom|Bromsgrove|Bromsgrove|1
+89|GB|United Kingdom|Buteshire|Buteshire|2
+90|GB|United Kingdom|Caerphilly|Caerphilly|2
+91|GB|United Kingdom|Cannock Chase|Cannock Chase|3
+92|GB|United Kingdom|Cardiff|Cardiff|1
+93|GB|United Kingdom|Carlisle|Carlisle|3
+94|GB|United Kingdom|Carmarthenshire|Carmarthenshire|5
+95|GB|United Kingdom|Central Bedfordshire|Central Bedfordshire|1
+96|GB|United Kingdom|Chelmsford|Chelmsford|1
+97|GB|United Kingdom|Cherwell|Cherwell|1
