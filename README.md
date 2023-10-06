@@ -1,18 +1,36 @@
+# Contoso Machine Learning Generator (Beta)
 
-# Contoso Machine Learning Data Generator
+This project provides data scientists, data engineers, and data analysts with a script to generate sample datasets for machine learning demonstrations. Using the famous Contoso dataset, the script produces enriched datasets suitable for modeling, ensuring that professionals can run demos without relying on real data. The generated datasets will be saved in the 'ModifiedFiles' folder.
 
-This Jupyter notebook provides an easy-to-use script to ingest common 'contoso' data files and output models for data scientists to use for modeling and demonstration purposes.
+> **Beta Disclaimer**: This project is currently in beta. Features might change frequently, and there could be bugs. Please use with caution and feel free to report any issues you encounter.
 
-## Overview
+## Table of Contents
+- [How to Use](#how-to-use)
+- [Features and Implementation Details](#features-and-implementation-details)
+- [Resources](#resources)
+- [Contribution, Feedback, and Bug Reporting](#contribution-feedback-and-bug-reporting)
+- [About Analytical Ants](#about-analytical-ants)
 
-- **Purpose**: To facilitate the creation of custom machine learning datasets based on either pre-defined scenarios or user-defined custom scenarios.
-- **Tracks**: Users have two distinct options:
-  1. Select pre-defined scenarios.
-  2. Create their own custom scenarios, including forecasting, clustering, and different patterns.
+## How to Use
 
-## Pre-Defined Scenarios:
+1. Download (or clone) the repository: 
+   - Terminal Command: git clone https://github.com/AnalyticalAnts/Contoso-Machine-Learning-Generator.git
+   - or [Download ZIP](https://github.com/AnalyticalAnts/Contoso-Machine-Learning-Generator/archive/refs/heads/main.zip) from Github
+2. Update 'USER PARAMETERS' found in the 'Contoso Machine Learning Generator.ipynb'
+3. Press 'Run All' (visual studio code or your choice editor)
+4. Files are loaded in the 'ModifiedFiles' folder
 
-### 1. Age-based Spending Pattern Scenario:
+A simple overview can be found here: [Youtube Tutorial](hyperlink)
+
+## Features and Implementation Details
+### Overview
+- Users can select from predefined scenarios or create their own custom enrichments (i.e., Forecasting or Classification)
+- Options are listed either to the right or below the input field
+- Custom classifications also have 'patterns' which can be applied in addition to the classification (e.g., add classification, and then introduce seaonality to the respective data)
+- Below are overviews on the different predefined scenarios
+
+### Predefined Scenarios:
+#### 1. Age-based Spending Pattern Scenario:
    - **Age Groups and Spending Patterns**:
      - Ages 18-30: High spending on Electronics and Fashion.
      - Ages 31-45: Medium spending on Home Goods and Groceries.
@@ -22,37 +40,36 @@ This Jupyter notebook provides an easy-to-use script to ingest common 'contoso' 
    - **Day-of-Week Shopping Patterns**: Younger groups shop more on weekends, older groups shop uniformly throughout the week.
    - **Preferred Communication Channels**: Younger groups prefer email/mobile notifications, older groups prefer direct mail/phone calls.
 
-### 2. Rare-class Customer Identification:
+#### 2. Rare-class Customer Identification:
    - A new customer attribute, "ValuableCustomer", labels a small subset of customers as valuable.
    - These customers exhibit:
-     - Higher average order values.
-     - Preference for premium products.
+     - increased order quantity.
+     - additional increase and preference for premium products.
      - Frequent shopping intervals.
    - **Challenge**: Identify these valuable customers based on behaviors and attributes.
 
-### 3. Seasonal Product Preferences:
+#### 3. Seasonal Product Preferences:
    - Product sales data showcases seasonality: e.g., winter gear sales peak during cold months, while swimwear peaks during summer.
    - Dimension table may indicate the season for each product.
    - **Challenge**: Forecast sales and identify seasonal trends.
 
-### 4. Store Performance Analysis:
-   - Variability is introduced in store sales data, with some stores consistently outperforming others.
-   - Dimension table attributes include store size, location type (mall vs. street), and staff count.
-   - **Challenge**: Identify factors contributing to store performance.
-
-## Features and Implementation Details:
+### Implementation Details:
 
 - The notebook is built using libraries like pandas, numpy, and os.
 - Various functionalities to load data, apply specific patterns, and export the modified data are provided.
-- The generated datasets can be saved in multiple formats for further use.
+- The generated datasets can be saved in multiple formats: csv or pipe delimited
 
-## How to Use
+## Resources
+- Base files are based off SQLBI's [Contoso 10K.bak file](https://github.com/sql-bi/Contoso-Data-Generator)
 
-1. Load your base dataset using the `load_data()` function.
-2. Specify the desired parameters for data modification.
-3. Use the `generate_custom_or_scenario_data()` function to produce the modified dataset.
-4. Export the results using the `export_dataframes()` function to your desired format.
+## Contribution, Feedback, and Bug Reporting
+As this project is in beta, we highly appreciate feedback. If you encounter any bugs or issues, please open an issue in this repository. Contributions and suggestions are welcome!
 
----
+Feel free to fork this repository and make improvements or adapt the script to other industries or specific needs. Pull requests and enhancements are welcome!
 
-Note: For detailed instructions and understanding, it is recommended to go through the markdown sections in the notebook.
+## About Analytical Ants
+
+**Analytical Ants** provides systems ("Ants") that systematically increase operational efficiencies and yields through dynamic data insights, data architecture, and processes. Our team takes pride in delivering these insights through a holistic approach encompassing Data Engineering, Data Science, and Data Analysis. 
+
+### Let's Collaborate!
+Whether you are just starting out in data analytics or looking to optimize your existing systems, our team at Analytical Ants is here to guide and support you. Connect with us today to partner in ‘Procuring Insights for YOUR Success’! For inquiries and potential collaborations, please [contact us](https://analyticalants.co/contact-us/)
