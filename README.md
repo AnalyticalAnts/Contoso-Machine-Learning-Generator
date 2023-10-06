@@ -58,9 +58,10 @@ A simple overview can be found here: [Youtube Tutorial](hyperlink)
 - The notebook is built using libraries like pandas, numpy, and os.
 - Various functionalities to load data, apply specific patterns, and export the modified data are provided.
 - The generated datasets can be saved in multiple formats: csv or pipe delimited
+- You can load different Contoso files that are derived from [SQLBI's bak files](https://github.com/sql-bi/Contoso-Data-Generator)
 
 ## Resources
-- Base files are based off SQLBI's [Contoso 10K.bak file](https://github.com/sql-bi/Contoso-Data-Generator)
+- Base files are based off [SQLBI's Contoso 10K.bak file](https://github.com/sql-bi/Contoso-Data-Generator)
 
 ## Contribution, Feedback, and Bug Reporting
 As this project is in beta, we highly appreciate feedback. If you encounter any bugs or issues, please open an issue in this repository. Contributions and suggestions are welcome!
