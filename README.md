@@ -20,7 +20,7 @@ This project provides data scientists, data engineers, and data analysts with a 
 3. Press 'Run All' (visual studio code or your choice editor)
 4. Files are loaded in the 'Modified Files' folder
 
-A simple overview can be found here: [Youtube Tutorial](hyperlink)
+A simple overview can be found here: [Youtube Tutorial (TBD)](hyperlink)
 
 ## Features and Implementation Details
 ### Overview
