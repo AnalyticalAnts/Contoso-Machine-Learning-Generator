@@ -1,6 +1,6 @@
 # Contoso Machine Learning Generator (Beta)
 
-This project provides data scientists, data engineers, and data analysts with a script to generate sample datasets for machine learning demonstrations. Using the famous Contoso dataset, the script produces enriched datasets suitable for modeling, ensuring that professionals can run demos without relying on real data. The generated datasets will be saved in the 'ModifiedFiles' folder.
+This project provides data scientists, data engineers, and data analysts with a script to generate sample datasets for machine learning demonstrations. Using the famous Contoso dataset, the script produces enriched datasets suitable for modeling, ensuring that professionals can run demos without relying on real data. The generated datasets will be saved in the 'Modified Files' folder.
 
 > **Beta Disclaimer**: This project is currently in beta. Features might change frequently, and there could be bugs. Please use with caution and feel free to report any issues you encounter.
 
@@ -18,7 +18,7 @@ This project provides data scientists, data engineers, and data analysts with a 
    - or [Download ZIP](https://github.com/AnalyticalAnts/Contoso-Machine-Learning-Generator/archive/refs/heads/main.zip) from Github
 2. Update 'USER PARAMETERS' found in the 'Contoso Machine Learning Generator.ipynb'
 3. Press 'Run All' (visual studio code or your choice editor)
-4. Files are loaded in the 'ModifiedFiles' folder
+4. Files are loaded in the 'Modified Files' folder
 
 A simple overview can be found here: [Youtube Tutorial](hyperlink)
 
